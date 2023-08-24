@@ -23,7 +23,7 @@ This project aims to develop a crop recommendation system using machine learning
 
 For any questions or suggestions, feel free to reach out:
 
-- Name: [Your Name]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- Name: [Mohamed Imthiyas]
+- Email: [imthiyas916@gmail.com]
+- GitHub: [imthi16]
 
